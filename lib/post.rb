@@ -1,5 +1,5 @@
 
-require '../author.rb'
+require './author.rb'
  
 class Post
 attr_accessor :title, :author
